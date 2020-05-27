@@ -1,2 +1,2 @@
 # CS50
-this is my work in the best course i took ever &lt;3
+This is my work for the best course I took ever | year 2020 &lt;3
