@@ -18,8 +18,6 @@ for to get the index of the char then take this index and get the same place fro
 #include <ctype.h>
 #include <cs50.h>
 
-string concat(string s1, string s2);
-string concatc(string s1, char c);
 
 int main(int argc, string argv[])
 {
